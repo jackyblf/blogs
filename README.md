@@ -1,2 +1,2 @@
-# github.io
-my github blog
+# My Blog
+
